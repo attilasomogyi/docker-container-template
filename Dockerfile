@@ -1,2 +1,2 @@
-FROM baseImage/lates
+FROM baseImage:latest
 RUN command
